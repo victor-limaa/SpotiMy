@@ -1,0 +1,28 @@
+header{
+    background-color: #102A45;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.Link:hover{
+    color: #B8D2ED;
+    cursor: pointer;
+}
+
+.Link{
+    text-decoration: none;
+    margin-left: 20px;
+    color: lightslategrey;
+}

@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divPlayer{
+    background-color: #102A45;
+    display: flex;
+    position: fixed;
+    width: 70%;
+    height: 150px;
+    color: white;
+    bottom: 0;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.music{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.music img {
+    width: 130px;
+    margin: 30px;
+    border-radius: 10px
+}
